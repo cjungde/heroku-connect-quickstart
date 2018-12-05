@@ -5,5 +5,5 @@
     "website": "https://devcenter.heroku.com/articles/herokuconnect",
     "repository": "https://github.com/heroku/heroku-connect-quickstart",
     "success_url": "/create",
-    "addons": ["heroku-postgresql", "herokuconnect:demo"]
+    "addons": ["heroku-postgresql", "herokuconnect:test"]
 }
